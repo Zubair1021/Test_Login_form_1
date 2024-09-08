@@ -28,13 +28,13 @@ body{
     margin-left: 30px;
     margin-right: 30px;
     padding: 10px;
-    border: 1px solid rgb(168, 160, 160);
+    border: 1px solid rgb(212, 202, 202);
     margin-bottom: 20px;
-
+    background-color: #F2F2F2;
 
 }
 .input::placeholder{
-    color: gray;
+    color: rgb(160, 153, 153);
     font-size: 16px;
 }
 .btn{
